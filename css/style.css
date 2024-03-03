@@ -286,7 +286,7 @@ body{
                             display: inline-block;
                             padding: 10px 5px; }
                             .site-navbar .site-navigation .site-menu > li > a {
-                              padding: 20px 10px;
+                              padding: 5px 10px;
                               color: #fff;
                               font-size: 15px;
                               text-decoration: none !important; }
@@ -529,7 +529,9 @@ body{
                           -o-transition: .3s all ease;
                           transition: .3s all ease; }
                           .sticky-wrapper .site-navbar ul li.active a {
-                            color: #fff; }
+                            color: #fff; 
+				border-bottom: 2px solid #DF6951;
+			  }
                         .sticky-wrapper.is-sticky .site-navbar {
                           background-color: #181433; }
                           .sticky-wrapper.is-sticky .site-navbar .site-navigation .site-menu > li {
