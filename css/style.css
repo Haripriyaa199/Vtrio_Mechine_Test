@@ -1403,7 +1403,7 @@ input:focus-visible {
   line-height: 22.4px;
 }
 	.get-in  {
-  display: none;
+  display: none !important;
 }
 }
 
