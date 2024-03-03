@@ -1375,6 +1375,9 @@ input:focus-visible {
   background-size: cover;
   background-repeat: no-repeat;
 }
+	.get-in  {
+  display: none;
+}
 .slide-text {
   padding: 130px 0;
 }
