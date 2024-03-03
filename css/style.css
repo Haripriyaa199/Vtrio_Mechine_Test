@@ -1239,6 +1239,11 @@ input, textarea {
   background-color: #d1d1d1;
   
 }
+input:focus-visible {
+  outline:none;
+}
+
+
 .form-control {
   background: transparent;
   border: none;
