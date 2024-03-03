@@ -1402,6 +1402,9 @@ input:focus-visible {
   font-size: 10.22px;
   line-height: 22.4px;
 }
+	.get-in  {
+  display: none;
+}
 }
 
 @media screen and (min-width: 1900px){
