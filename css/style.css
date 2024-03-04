@@ -1363,6 +1363,11 @@ input:focus-visible {
 .slide-text {
   padding: 130px 0 50px 0;
 }
+	.quote {
+    position: absolute;
+    top: 90px;
+    left: 0;
+}
 }
 
 
@@ -1384,6 +1389,7 @@ input:focus-visible {
 	.where-to form{
   display: flex !important;
 }
+	
 }
 
 @media only screen and (min-width: 768px) and (max-width: 978px){
